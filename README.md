@@ -18,8 +18,12 @@ https://www.figma.com/file/bhkRq4oH6irEuCI6qq1O40/Amharic_Chat?t=c8wvlgxcYJPBhFI
 
 5.
 https://www.figma.com/file/fts5Ya1a1d8YB6PGa3odRo/Ethio_Totoral?t=c8wvlgxcYJPBhFIP-0
+
+
 6.
 https://www.figma.com/file/sbzzT47IilmNXXF2Kk9J3v/LANDING-PAGE?t=c8wvlgxcYJPBhFIP-0
+
+
 7.
 https://www.figma.com/file/RyiA9yY8QyVMEvRY1DStBZ/Akran_website?t=c8wvlgxcYJPBhFIP-0
 
